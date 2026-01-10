@@ -1,2 +1,7 @@
 I am a new cat
+<<<<<<< Updated upstream
 this line is from issue-01
+=======
+this is a Lion!
+there is a Tiger
+>>>>>>> Stashed changes
